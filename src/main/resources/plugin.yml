@@ -1,0 +1,9 @@
+name: EntityModels
+version: '1.1.5'
+main: me.sfclog.entitymodels.EntityModels
+api-version: 1.19
+load: STARTUP
+softdepend:
+  - MythicMobs
+commands:
+  entitymodels:
